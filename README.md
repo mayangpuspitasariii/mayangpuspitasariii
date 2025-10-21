@@ -60,10 +60,4 @@ Saya sangat tertarik dengan pengembangan aplikasi web full-stack yang efisien da
 ### 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/username)  
-- Email: your.email@example.com  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- Email: mayangpuspitas410@gmail.com  
