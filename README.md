@@ -1,83 +1,99 @@
-<!-- ===================================================== -->
-
-<!--                    ANIMATED HEADER                    -->
-
-<!-- ===================================================== -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=230&section=header&text=Mayang%20Puspita%20Sari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:00B8D9&height=220&section=header&text=Mayang%20Puspita%20Sari&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn"
     width="100%"
   />
 </p>
 
-<!-- ===================================================== -->
-
-<!--                       INTRO                           -->
-
-<!-- ===================================================== -->
-
-<h1 align="center">Halo 👋, Saya Mayang Puspita Sari</h1>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=1976D2&center=true&vCenter=true&width=700&lines=Web+Developer;React+Developer;System+Analyst;Backend+Developer;Project+Manager;Sedang+Terus+Belajar+%26+Berkembang"
-    alt="Typing Animation"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=React+Developer;System+Analyst;Management+Projec+IT;Tertarik+Pada+Data+Analysis"
+    alt="Animasi Perkenalan"
   />
 </p>
 
 <p align="center">
-  <a href="https://mayang-portofolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Lihat%20Portfolio-1565C0?style=for-the-badge" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-Terhubung-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <strong>
+    Membangun solusi digital melalui kode, kreativitas, dan pembelajaran berkelanjutan.
+  </strong>
 </p>
+
+<br>
+
+<p align="center">
+
+<a href="https://mayang-portofolio.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20Portofolio-Kunjungi%20Portofolio-0EA5E9?style=for-the-badge&labelColor=0F172A"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/mayangpuspitasari02">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Terhubung%20Dengan%20Saya-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"
+  />
+</a>
+
+<a href="mailto:mayangpuspitas410@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Hubungi%20Saya-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"
+  />
+</a>
+
+</p>
+
+<br>
 
 ---
 
-<!-- ===================================================== -->
+<!-- ===================== TENTANG SAYA ===================== -->
 
-<!--                      TENTANG SAYA                     -->
-
-<!-- ===================================================== -->
+<h2 align="center">👩🏻‍💻 Tentang Saya</h2>
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 👩‍💻 Tentang Saya
+### Halo, saya Mayang! 👋
 
-Halo! Saya **Mayang Puspita Sari**, lulusan **S1 Sistem Informasi Universitas Royal Tahun 2025** dengan **IPK 3,80**.
+Saya adalah **lulusan S1 Sistem Informasi Universitas Royal tahun 2025** dengan **IPK 3,80**.
 
-Saya memiliki pengalaman dalam pengembangan aplikasi web, analisis sistem, pengelolaan data, serta koordinasi proyek melalui pengalaman akademik, Studi Independen, dan kegiatan magang.
+Saya memiliki pengalaman dan ketertarikan dalam:
 
-Saya tertarik pada pengembangan aplikasi web yang **fungsional, terstruktur, dan mudah digunakan**.
+- 🌐 Pengembangan Web
+- ⚛️ React Development
+- ⚙️ Backend Development
+- 📊 Analisis Sistem
+- 🗄️ Database & SQL
+- 📈 Analisis Data
+- 📋 Manajemen Proyek
 
-### 💙 Fokus Saya
+Saya senang mengubah ide dan kebutuhan pengguna menjadi aplikasi yang:
 
-* 🌐 Pengembangan Web
-* ⚛️ React.js
-* ⚙️ Backend Development
-* 🗄️ Database & SQL
-* 📊 Analisis Sistem
-* 📋 Manajemen Proyek
-* 📈 Data Analysis
+> **Fungsional · Terstruktur · Mudah Digunakan · Mudah Dikembangkan**
 
-<br>
-
-> 💡 **Belajar → Membangun → Memperbaiki → Berkembang**
+Saat ini saya terus meningkatkan kemampuan teknis dengan membangun berbagai proyek, mempelajari teknologi baru, serta memahami praktik pengembangan aplikasi yang digunakan di dunia nyata.
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
 <img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="380"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="360"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/IPK-3.80-0EA5E9?style=for-the-badge&labelColor=0F172A"
+/>
+
+<img
+  src="https://img.shields.io/badge/Lulus-2025-38BDF8?style=for-the-badge&labelColor=0F172A"
 />
 
 </td>
@@ -87,56 +103,18 @@ width="380"
 
 ---
 
-<!-- ===================================================== -->
+<!-- ===================== FOKUS ===================== -->
 
-<!--                      KEAHLIAN                         -->
-
-<!-- ===================================================== -->
-
-## ⚡ Keahlian
-
-### 💻 Bahasa Pemrograman
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-<!-- ===================================================== -->
-
-<!--                     YANG SAYA LAKUKAN                 -->
-
-<!-- ===================================================== -->
-
-## 🚀 Yang Saya Kerjakan
+<h2 align="center">🎯 Fokus Saya</h2>
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 🌐 Web Development
+### 🌐 Pengembangan Web
 
-Mengembangkan aplikasi web menggunakan teknologi frontend dan backend modern dengan fokus pada fungsionalitas dan pengalaman pengguna.
+Membangun aplikasi web yang responsif, fungsional, dan mudah digunakan menggunakan teknologi frontend dan backend modern.
 
 </td>
 
@@ -144,172 +122,242 @@ Mengembangkan aplikasi web menggunakan teknologi frontend dan backend modern den
 
 ### 📊 Analisis Sistem
 
-Menganalisis kebutuhan sistem serta membuat DFD, ERD, flowchart, dan perancangan sistem berdasarkan kebutuhan pengguna.
+Menganalisis kebutuhan pengguna dan merancang sistem menggunakan DFD, ERD, flowchart, serta dokumentasi sistem.
 
 </td>
 
 <td width="33%" align="center">
 
-### 📋 Manajemen Proyek
+### 📈 Analisis Data
 
-Mengatur pembagian tugas, timeline, komunikasi tim, koordinasi dengan mentor, serta memantau perkembangan proyek.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<td width="50%" valign="top">
-
-### 📊 Analisis Data
-
-**Sedang Dikembangkan**
-
-Saat ini saya juga sedang mempelajari bidang **Data Analysis** untuk memperkuat kemampuan dalam mengolah dan menganalisis data.
-
-**Sedang Dipelajari**
-
-* 📗 Microsoft Excel
-* 🗄️ SQL
-* 🧹 Data Cleaning
-* 📊 Pivot Table
-* 📈 Data Visualization
-* 🔎 Data Analysis
-* 📋 Google Looker Studio
+Mempelajari pengolahan data, SQL, data cleaning, visualisasi, serta menghasilkan informasi yang dapat membantu pengambilan keputusan.
 
 </td>
 
 </tr>
 </table>
 
----
-
-<!-- ===================================================== -->
-
-<!--                    SEDANG BELAJAR                     -->
-
-<!-- ===================================================== -->
-
-## 🌱 Sedang Saya Pelajari
+<br>
 
 <p align="center">
 
-<img
-src="https://img.shields.io/badge/React.js-Memperdalam-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-/>
+<img src="https://img.shields.io/badge/Fokus-Web%20Development-0EA5E9?style=flat-square" />
 
-<img
-src="https://img.shields.io/badge/JavaScript-Memperdalam-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-/>
+<img src="https://img.shields.io/badge/Fokus-React-38BDF8?style=flat-square" />
 
-<img
-src="https://img.shields.io/badge/SQL-Mempelajari-1976D2?style=for-the-badge&logo=mysql&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Fokus-System%20Analysis-0284C7?style=flat-square" />
 
-<img
-src="https://img.shields.io/badge/Data%20Analysis-Mempelajari-1565C0?style=for-the-badge"
-/>
+<img src="https://img.shields.io/badge/Fokus-Backend-0369A1?style=flat-square" />
 
-</p>
-
-```text
-React.js          ███████████████░░░░░  Memperdalam
-JavaScript        ██████████████░░░░░░  Memperdalam
-Node.js           █████████████░░░░░░░  Memperdalam
-SQL               ██████████░░░░░░░░░░  Mempelajari
-Data Analysis     ████████░░░░░░░░░░░░  Mempelajari
-```
-
----
-
-<!-- ===================================================== -->
-
-<!--                     GITHUB STATS                      -->
-
-<!-- ===================================================== -->
-
-## 📊 Statistik GitHub
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=mayangpuspitasariii&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayangpuspitasariii&layout=compact&theme=transparent&hide_border=true"
-height="180"
-/>
+<img src="https://img.shields.io/badge/Fokus-Data%20Analysis-075985?style=flat-square" />
 
 </p>
 
 ---
 
-<!-- ===================================================== -->
+<!-- ===================== KEAHLIAN ===================== -->
 
-<!--                    GITHUB STREAK                      -->
+<h2 align="center">⚡ Keahlian</h2>
 
-<!-- ===================================================== -->
-
-## 🔥 Aktivitas Coding
+<h3 align="center">💻 Bahasa Pemrograman</h3>
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=mayangpuspitasariii&theme=transparent&hide_border=true"
-/>
+<img src="https://skillicons.dev/icons?i=js,php" />
+
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
+
+</p>
+
+<h3 align="center">⚙️ Backend & Database</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+
+</p>
+
+<h3 align="center">🛠️ Tools & Design</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </p>
 
 ---
 
-<!-- ===================================================== -->
+<!-- ===================== CARA KERJA ===================== -->
 
-<!--                 CONTRIBUTION SNAKE                    -->
-
-<!-- ===================================================== -->
-
-## 🐍 Perjalanan Kontribusi
+<h2 align="center">🚀 Cara Saya Bekerja</h2>
 
 <p align="center">
 
-<img
-src="https://raw.githubusercontent.com/mayangpuspitasariii/mayangpuspitasariii/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
+<img src="https://img.shields.io/badge/01-Pahami-0EA5E9?style=for-the-badge&labelColor=0F172A" />
+
+<img src="https://img.shields.io/badge/02-Analisis-38BDF8?style=for-the-badge&labelColor=0F172A" />
+
+<img src="https://img.shields.io/badge/03-Bangun-0284C7?style=for-the-badge&labelColor=0F172A" />
+
+<img src="https://img.shields.io/badge/04-Uji-0369A1?style=for-the-badge&labelColor=0F172A" />
+
+<img src="https://img.shields.io/badge/05-Perbaiki-075985?style=for-the-badge&labelColor=0F172A" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+> 💡 <strong>Belajar → Membangun → Memperbaiki → Berkembang</strong>
 
 </p>
 
 ---
 
-<!-- ===================================================== -->
+<!-- ===================== ANALISIS DATA ===================== -->
 
-<!--                     HUBUNGI SAYA                      -->
+<h2 align="center">📊 Perjalanan Analisis Data</h2>
 
-<!-- ===================================================== -->
+<p align="center">
+  Saat ini saya sedang mengembangkan kemampuan di bidang analisis data
+  dan pemecahan masalah berbasis data.
+</p>
 
-## 📫 Mari Terhubung
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+### 📗 Microsoft Excel
+
+Pivot Table  
+Data Cleaning  
+Pengolahan Data
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ SQL
+
+Query  
+Filtering  
+Join  
+Agregasi Data
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈 Visualisasi
+
+Grafik  
+Dashboard  
+Penyajian Data
+
+</td>
+
+<td align="center" width="25%">
+
+### 📋 Looker Studio
+
+Dashboard  
+Reporting  
+Insight Data
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== SEDANG DIPELAJARI ===================== -->
+
+<h2 align="center">🌱 Sedang Saya Pelajari</h2>
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/React.js-Memperdalam-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0F172A"
+/>
+
+<img
+  src="https://img.shields.io/badge/JavaScript-Memperdalam-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A"
+/>
+
+<img
+  src="https://img.shields.io/badge/Node.js-Memperdalam-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0F172A"
+/>
+
+<img
+  src="https://img.shields.io/badge/SQL-Mempelajari-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0F172A"
+/>
+
+<img
+  src="https://img.shields.io/badge/Data%20Analysis-Mempelajari-0EA5E9?style=for-the-badge&labelColor=0F172A"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+🌱 Mempelajari hal baru setiap hari  
+<br>
+💻 Membangun proyek untuk meningkatkan kemampuan  
+<br>
+🚀 Mempersiapkan diri menghadapi dunia kerja
+
+</p>
+
+---
+
+
+<!-- ===================== AKTIVITAS ===================== -->
+
+<h2 align="center">🔥 Aktivitas Coding</h2>
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=mayangpuspitasariii&theme=transparent&hide_border=true"
+  width="70%"
+/>
+
+</p>
+
+<!-- ===================== HUBUNGI ===================== -->
+
+<h2 align="center">🤝 Mari Terhubung</h2>
 
 <p align="center">
 
 <a href="https://mayang-portofolio.vercel.app/">
   <img
-    src="https://img.shields.io/badge/🌐%20Portfolio-1565C0?style=for-the-badge"
+    src="https://img.shields.io/badge/🌐%20Portofolio-Kunjungi%20Website-0EA5E9?style=for-the-badge&labelColor=0F172A"
   />
 </a>
 
-<a href="https://www.linkedin.com/in/username">
+<a href="https://www.linkedin.com/in/mayangpuspitasari02/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-1976D2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Terhubung-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"
   />
 </a>
 
 <a href="mailto:mayangpuspitas410@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Gmail-Kirim%20Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"
   />
 </a>
 
@@ -317,33 +365,25 @@ alt="GitHub Contribution Snake"
 
 ---
 
-<!-- ===================================================== -->
-
-<!--                    PROFILE VIEWS                      -->
-
-<!-- ===================================================== -->
+<!-- ===================== PROFILE VIEWS ===================== -->
 
 <p align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=1976D2&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=mayangpuspitasariii&label=Kunjungan%20Profil&color=0EA5E9&style=for-the-badge"
 />
 
 </p>
 
----
+<br>
 
-<!-- ===================================================== -->
-
-<!--                    ANIMATED FOOTER                    -->
-
-<!-- ===================================================== -->
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=130&section=footer&animation=fadeIn"
-width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:00B8D9&height=120&section=footer"
+  width="100%"
 />
 
 </p>
@@ -352,6 +392,8 @@ width="100%"
 
 ### 💙 Terima kasih sudah mengunjungi profil GitHub saya!
 
-<i>Terus belajar, terus membangun, dan terus berkembang. 🚀</i>
+<em>
+Terus belajar · Terus membangun · Terus berkembang 🚀
+</em>
 
 </p>
